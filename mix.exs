@@ -25,7 +25,7 @@ defmodule KinoEcto.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:kino, "~> 0.7.0"},
+      {:kino, "~> 0.9.0"},
       {:ecto, "~> 3.8"},
       {:ecto_sql, "~> 3.8"},
       {:nimble_parsec, "~> 1.2"}
